@@ -1,0 +1,13 @@
+# Loại bỏ thông tin cấu hình và bảo mật
+.env
+
+# Loại bỏ tệp cấu hình Firebase
+chat-room/firebaseConfig.json
+
+
+# Loại bỏ thư mục node_modules
+node_modules/
+
+# Loại bỏ thư mục build/ hoặc dist/
+build/
+dist/
